@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 5961,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/remove-one-or-more-azure-resource-groups-and-contained-resources/master/Remove-ResourceGroup.ps1",
+    "DownloadCount": 1423,
+    "Id": "Remove-one-or-more-Azure-9c43ef46",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 348,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-9-20T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This runbook connects to Azure and removes resource groups with names that have substrings that match the name filter. All of the resources in each resource group are also removed. An option is to run in preview mode to verify before actual removal.",
+    "Title": "Remove one or more Azure resource groups and contained resources",
+    "UpdatedDate": "2018-6-3T00:00:00",
+    "Url": "https://github.com/azureautomation/remove-one-or-more-azure-resource-groups-and-contained-resources",
+    "UserTags": "Azure Automation, PowerShell Runbook, Azure Resource Group"
+}
